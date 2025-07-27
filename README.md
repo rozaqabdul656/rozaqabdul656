@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdul Rozaq 👋</h1>
+<h1 align="center">Hi, I'm Rozaq 👋</h1>
 
 <p align="center">
   🚀 Senior Backend Engineer | Web3, Crypto, Fintech Enthusiast <br/>
