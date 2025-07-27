@@ -5,9 +5,6 @@
   🧠 Clean Architecture | Payment Gateway Builder | OSS Lover
 </p>
 
-<img src="https://github.com/rozaqabdul656/rozaqabdul656.github.io/raw/main/A_digital_illustration_features_an_avatar_of_a_cry.png" alt="Crypto Developer Avatar" width="300" style="border-radius: 12px" />
-
----
 
 ### 👨‍💻 About Me
 
