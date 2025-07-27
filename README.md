@@ -21,10 +21,10 @@
 ### 🛠 Tech Stack
 
 **Languages**  
-`TypeScript` `Go` `Rust` `PHP` `Python`
+`TypeScript` `Go` `Rust` `PHP` `Python` `Node JS`  `Java`
 
 **Backend**  
-`NestJS` `Fastify` `Laravel` `FastAPI`
+`NestJS` `Fastify` `Laravel` `FastAPI` `Node JS` `Solidty`
 
 **Infra**  
 `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes`
@@ -40,5 +40,4 @@
 ### 📫 Let's Connect!
 
 - 🌍 Website: [rora.cash](https://rora.cash)
-- ✉️ Email: rizkiakbarabdulrozaq@gmail.com
-- 🐦 Twitter: [@rozaqdev](https://twitter.com/rozaqdev)
+- ✉️ Email: rozaqabdul678@gmail.com
