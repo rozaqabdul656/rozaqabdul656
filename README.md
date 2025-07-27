@@ -10,7 +10,7 @@
 
 - 💼 7+ years of experience in backend development
 - 🏦 Focused on scalable payment gateway infrastructure (Crypto & Fiat)
-- 🌐 Built **RoraCash**, a non-custodial gateway (KPay, Xendit, Binance, etc.)
+- 🌐 Built **RoraCash**, a non-custodial gateway
 - 🧠 Passionate about blockchain infra, distributed systems, and AI
 
 ---
