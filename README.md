@@ -1,39 +1,52 @@
-<h1 align="center">Hi, I'm Rozaq 👋</h1>
+## Hi, I'm Rozaq 👋  
+🚀 Tech Lead | Senior Backend Engineer | Web3 & Fintech Enthusiast  
+🧠 Clean Architecture | Payment Gateway Builder | OSS Contributor  
 
-<p align="center">
-  🚀 Tech Lead | Senior Backend Engineer | Web3, Crypto, Fintech Enthusiast <br/>
-  🧠 Clean Architecture | Payment Gateway Builder | OSS Lover
-</p>
-
+---
 
 ### 👨‍💻 About Me
 
-- 💼 7+ years of experience in backend development
-- 🏦 Focused on scalable payment gateway infrastructure (Crypto & Fiat)
-- 🧠 Passionate about blockchain infra, distributed systems, and AI
+- 💼 7+ years of experience in backend engineering  
+- 🏦 Specialized in scalable payment gateway infrastructure (Crypto & Fiat)  
+- 🧠 Passionate about blockchain infra, distributed systems, and AI agents  
+- 🧪 Builder of **CoFi Xyntra** – an AI-powered DeFi Copilot  
+- 🔧 Always crafting systems with maintainability, observability, and performance in mind
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages**  
-`TypeScript` `Go` `Rust` `PHP` `Python` `Node JS`  `Java`
+`TypeScript` `Go` `Rust` `PHP` `Python` `Node.js` `Java`
 
-**Backend**  
-`NestJS` `Fastify` `Laravel` `FastAPI` `Node JS` `Solidty`
+**Backend Frameworks**  
+`NestJS` `Fastify` `Laravel` `FastAPI` `Node.js` `Solidity`
 
-**Infra**  
+**Infra & Database**  
 `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes`
 
 **Cloud & DevOps**  
 `AWS` `Coolify` `GitHub Actions` `CI/CD`
 
-**Web3**  
+**Web3 / P2P / On-Chain**  
 `Solidity` `ICP` `Hypercore` `Hyperswarm` `WalletConnect`
 
 ---
 
-### 📫 Let's Connect!
+### ⚒️ Highlight Project
 
+#### 🧠 [CoFi Xyntra](https://github.com/your-org/cofi-defi-copilot)
+> Your intelligent DeFi copilot — powered by AI and on-chain execution.  
+> Swap, stake, bridge, and track — all through natural language.
 
-- ✉️ Email: rozaqabdul678@gmail.com
+---
+
+### 💬 Let’s Connect!
+
+- 🧪 Sharing open-source & experiments at [@rozaqabdul656](https://github.com/rozaqabdul656)  
+- 🛠 Building tools that empower Web3 and Fintech ecosystems  
+- ✉️ [Let’s talk](mailto:rozaq.dev@gmail.com) if you’re building something exciting!
+
+---
+
+> _"Code with purpose. Build with impact."_ ✨
