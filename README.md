@@ -35,7 +35,7 @@
 
 ### ⚒️ Highlight Project
 
-#### 🧠 [CoFi Xyntra](https://github.com/your-org/cofi-defi-copilot)
+#### 🧠 [CoFi Xyntra](https://github.com/CoFi-Xyntra)
 > Your intelligent DeFi copilot — powered by AI and on-chain execution.  
 > Swap, stake, bridge, and track — all through natural language.
 
