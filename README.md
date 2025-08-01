@@ -45,7 +45,7 @@
 
 - 🧪 Sharing open-source & experiments at [@rozaqabdul656](https://github.com/rozaqabdul656)  
 - 🛠 Building tools that empower Web3 and Fintech ecosystems  
-- ✉️ [Let’s talk](mailto:rozaq.dev@gmail.com) if you’re building something exciting!
+- ✉️ [Let’s talk](mailto:rozaqabdul@gmail.com) if you’re building something exciting!
 
 ---
 
