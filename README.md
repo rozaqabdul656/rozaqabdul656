@@ -6,11 +6,15 @@
 
 ### 👨‍💻 About Me
 
-- 💼 7+ years of experience in backend engineering  
+- 💼 7+ years of experience in backend engineering
+- 🧑‍💼 2+ years leading cross-functional engineering teams
+- ⚙️ Strong background in designing high-performance, maintainable systems
+- 💡 Mentors engineers and drives initiatives from zero to production
+- 🔍 Advocate for code quality, testing culture, and developer autonomy
+- 📈 Focused on system scalability, clean architecture, observability, and performance
 - 🏦 Specialized in scalable payment gateway infrastructure (Crypto & Fiat)  
 - 🧠 Passionate about blockchain infra, distributed systems, and AI agents  
 - 🧪 Builder of **[CoFi Xyntra](https://github.com/CoFi-Xyntra)** – an AI-powered DeFi Copilot  
-- 🔧 Always crafting systems with maintainability, observability, and performance in mind
 
 ---
 
