@@ -49,7 +49,7 @@ Microservices, RESTful APIs, Clean Architecture, GRPC, Domain-Driven Design
 > Your intelligent DeFi copilot — powered by AI and on-chain execution.  
 > Swap, stake, bridge, and track — all through natural language.
 
-#### ⚒️ [Go - Ind]([https://github.com/CoFi-Xyntra](https://github.com/go-ind))
+#### ⚒️ [Go - Ind](https://github.com/go-ind)
 > Golang library open source (router, logger) 
 
 ---
